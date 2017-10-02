@@ -30,7 +30,7 @@
         <muleSchedulerServiceVersion>1.0.0-greenarrow</muleSchedulerServiceVersion>
         <muleHttpServiceVersion>1.0.0-greenarrow</muleHttpServiceVersion>
         <muleOAuthServiceVersion>1.0.0-greenarrow</muleOAuthServiceVersion>
-        <muleSoapServiceVersion>1.0.0-SNAPSHOT</muleSoapServiceVersion>
+        <muleSoapServiceVersion>1.0.0-greenarrow</muleSoapServiceVersion>
 
         <formatterConfigPath>formatter.xml</formatterConfigPath>
 	</properties>
