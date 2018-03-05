@@ -30,7 +30,7 @@
         <muleSchedulerServiceVersion>1.1.1-DRY-RUN</muleSchedulerServiceVersion>
         <muleHttpServiceVersion>1.1.1-DRY-RUN</muleHttpServiceVersion>
         <muleOAuthServiceVersion>1.1.1-DRY-RUN</muleOAuthServiceVersion>
-        <muleSoapServiceVersion>1.1.2-SNAPSHOT</muleSoapServiceVersion>
+        <muleSoapServiceVersion>1.1.1-DRY-RUN</muleSoapServiceVersion>
         <muleHttpConnectorTestVersion>1.1.1-SNAPSHOT</muleHttpConnectorTestVersion>
         <muleFileConnectorTestVersion>1.1.2-SNAPSHOT</muleFileConnectorTestVersion>
 
